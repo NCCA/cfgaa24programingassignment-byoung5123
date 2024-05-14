@@ -3,6 +3,10 @@
 ![alt tag](tetrisImage.png)
 
 
+https://github.com/NCCA/cfgaa24programingassignment-byoung5123/assets/149786837/e261d82d-073f-4c70-9e10-efcc11579bb9
+
+
+
 This project demonstrates a basic implementation of Tetris mechanics, lit and rendered in OpenGL using the NGL graphics library.
 The mechanics and tetromino types are taken directly from the original [Tetris](https://en.wikipedia.org/wiki/Tetris) game.
 Additionally it uses Qt to display the window and handle user interations.
