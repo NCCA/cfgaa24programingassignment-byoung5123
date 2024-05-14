@@ -77,3 +77,4 @@ and to run use
 - Displaying player score on screen.
 - "Game over" state when tetrominoes can no longer spawn without overlapping.
 - Improve shading/background.
+- Efficiency, for example rotating tetrominoes via an algorithm rather than cycling through predetermined shapes
