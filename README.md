@@ -67,13 +67,13 @@ and to run use
 
 ### Current functionality:
 
-- Tetrominoes move down each tick
-- User can use arrow keys to move tetrominoes left, right and down and rotate them clockwise
-- Consistent collision detection with board edges and other tetrominoes
-- Clears full rows, moving all rows down once a row has been cleared and adding to the player score
+- Tetrominoes move down each tick.
+- User can use arrow keys to move tetrominoes left, right and down and rotate them clockwise.
+- Consistent collision detection with board edges and other tetrominoes.
+- Clears full rows, moving all rows down once a row has been cleared and adding to the player score.
 
 ### Potential improvements:
 
-- Displaying player score on screen
-- "Game over" state when tetrominoes can no longer spawn without overlapping
-- Improve shading/background
+- Displaying player score on screen.
+- "Game over" state when tetrominoes can no longer spawn without overlapping.
+- Improve shading/background.
