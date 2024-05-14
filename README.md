@@ -63,6 +63,10 @@ and to run use
 - **Board**: Manages the game logic for the Tetris gameplay.
 - **Tetromino**: Represents the individual Tetris pieces (Tetrominoes).
 
+# Development Process
+
+To begin with I researched tetris logic in C++ ("Code-It-Yourself! Tetris - Programming from Scratch (Quick and Simple C++" - javidx9 on Youtube, 2017), and displayed the results by printing a grid of 1s and 0s onto the console with 1 representing an occupied space on the board and 0 representing an empty space. This allowed me to build the classes and logic required for the game before incorporating NGL to bring it into 3D space and Qt to handle the user input.
+
 # Functionality/Improvements
 
 ### Current functionality:
@@ -74,7 +78,7 @@ and to run use
 
 ### Potential improvements:
 
-- Displaying player score on screen.
-- "Game over" state when tetrominoes can no longer spawn without overlapping.
+- Display player score on screen.
+- Add "Game over" state when tetrominoes can no longer spawn without overlapping.
 - Improve shading/background.
-- Efficiency, for example rotating tetrominoes via an algorithm rather than cycling through predetermined shapes
+- Increase efficency, for example rotate tetrominoes via an algorithm rather than cycling through predetermined shapes
